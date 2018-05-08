@@ -603,14 +603,6 @@ ld-channels ul .channel-voice-states li.speaking .avatar-small {
     color: #fff;
     border-color: var(--main-color);
 }
-.mentioned .mention:hover {
-    color: var(--main-color);
-}
-.mention:hover {
-    cursor: pointer;
-    color: #fff;
-    background-color: var(--main-color) !important;
-}
 .region-select-modal {
     background: rgba(0, 0, 0, 0.75);
 }
