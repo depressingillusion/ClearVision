@@ -1575,8 +1575,6 @@ a:link {
     border-top: 2px solid var(--main-color);
 }
 .mention {
-    color: #ddd !important;
-    background: rgba(115, 139, 215, .1) !important;
     padding: 1px 4px;
     border-radius: 6px;
     transition: all .3s ease-in-out;
